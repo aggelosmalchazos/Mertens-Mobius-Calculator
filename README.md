@@ -17,3 +17,6 @@ A number is considered abudant when s(n)>n.
 A number is called square free when none of its divisors, excluding 1, is a squared number.
 
 So this program finds the Mertens values for n in [1,10^(MAXEXP)+9] and prints out the ones that are in [10^K-9,10^K+9] for each K in [1,MAXEXP]. It also finds and prints the ZP numbers in [1,10^MAXEXP+9], and the perfect numbers in [2,1000*ZP]. Finally, it keeps a count of how many deficient and abudant numbers are there in [2,1000*ZP].
+
+
+This project was completed for the course Introduction to Programming, by professor Panagiotis Stamatopoulos, Department of Informatics and Telecommunications(DIT), University of Athens (UOA). More information can be found here:https://cgi.di.uoa.gr/~ip/iphw2223_1.pdf
